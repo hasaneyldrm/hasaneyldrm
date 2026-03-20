@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🚀 **2x Founder** — 1 B2B exit & 1 B2C exit under my belt
+- 🚀 **2x Founder** — 1 SaaS exit & 1 Dating app exit
 - 💘 Deep domain expertise in the **dating & social apps** industry
 - 📦 Currently working as a **Product Manager** — turning ideas into scalable products
 - 📍 Based in **Istanbul**, building for the world
@@ -24,38 +24,46 @@
 
 | # | Type | Sector | Status |
 |---|------|--------|--------|
-| 1 | **B2B** | Tech / SaaS | ✅ Exited |
-| 2 | **B2C** | Dating & Social | ✅ Exited |
+| 1 | **B2B** | SaaS | ✅ Exited |
+| 2 | **B2C** | Dating | ✅ Exited |
 
 ---
 
 ## 🛠️ Product Toolkit
 
+#### Strategy & Discovery
+<p>
+  <img src="https://img.shields.io/badge/User_Research-5C6BC0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Strategy-7E57C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OKRs_%26_KPIs-AB47BC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roadmapping-CE93D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/A%2FB_Testing-9C27B0?style=for-the-badge" />
+</p>
+
+#### Analytics & Growth
+<p>
+  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amplitude-FF7900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+#### Design & Collaboration
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amplitude-FF7900?style=for-the-badge&logo=amplitude&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 📱 [reactnativecliboilerplate](https://github.com/hasaneyldrm/reactnativecliboilerplate)
-> React Native CLI boilerplate — navigation, i18n, OneSignal & onboarding flow. **91 ⭐**
-
-### 🏋️ [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
-> 433 fitness exercises with muscle groups, equipment, instructions & animations. **60 ⭐**
-
-### 🤖 [cursor-rules](https://github.com/hasaneyldrm/cursor-rules)
-> Curated Cursor AI rules for better developer workflows. **67 ⭐**
-
-### 🍽️ [yemek-tarifleri-public](https://github.com/hasaneyldrm/yemek-tarifleri-public)
-> React Native recipe discovery & sharing app. **20 ⭐**
+#### Tech Fluency
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
@@ -68,19 +76,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasaneyldrm&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p>
-  <a href="https://twitter.com/hasaneyldrm" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/hasaneyldrm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
