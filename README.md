@@ -35,24 +35,21 @@
 
 <br />
 
-## 🔥 GitHub Activity
+## 🚀 Featured Projects
 
-<!--
-  github-readme-stats.vercel.app'in ana kartı ve top-langs kartı şu anda 503 dönüyor
-  (paylaşılan demo instance rate-limit/overload sorunu yaşıyor — yaygın ve bilinen bir durum).
-  Kalıcı çözüm: kendi Vercel hesabınızda kendi GH token'ınızla fork'u self-host edin:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  O zamana kadar sağlıklı çalışan streak-stats kartı aşağıda kalıyor.
--->
+| Project | ⭐ | Description |
+|---|:-:|---|
+| [**exercises-dataset**](https://github.com/hasaneyldrm/exercises-dataset) | 14.5k | 1,324-exercise fitness dataset — animated GIFs, thumbnails, muscle-group & equipment data, and instructions in 6 languages. Powers the exercise library behind LogPress. |
+| [**reactnativecliboilerplate**](https://github.com/hasaneyldrm/reactnativecliboilerplate) | 92 | React Native CLI boilerplate with navigation, i18n, OneSignal push, and onboarding wired up out of the box. |
+| [**logpress-public**](https://github.com/hasaneyldrm/logpress-public) | 69 | AI-powered workout tracker for iOS & Android — AI fitness scoring, workout logging, gamification, offline demo mode. |
+| [**cursor-rules**](https://github.com/hasaneyldrm/cursor-rules) | 68 | A curated collection of Cursor AI rules for faster, more consistent AI-assisted coding. |
+| [**yemek-tarifleri-public**](https://github.com/hasaneyldrm/yemek-tarifleri-public) | 21 | React Native app for discovering, saving, and sharing recipes. |
+| [**projbar**](https://github.com/hasaneyldrm/projbar) | 8 | Project-aware Terminal tabs for macOS — menu bar indicator, window badge, ⌥Tab work switcher, automatic Claude Code project tracking. Zero polling. |
+
+<br />
+
+## 🔥 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasaneyldrm&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
-<br />
-
-<div align="center">
-
-*"Great products don't just solve problems — they change habits."*
-
-</div>
